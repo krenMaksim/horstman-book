@@ -9,6 +9,7 @@ import java.nio.charset.StandardCharsets;
 
 public class PrimitiveClientMain {
 
+    // $ telnet time-a.nist.gov 13
     public static void main(String[] args) throws UnknownHostException, IOException {
 
         var socket = new Socket("time-a.nist.gov", 13);
