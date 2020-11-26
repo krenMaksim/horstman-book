@@ -1,4 +1,4 @@
-package com.kren.horstman.book.chapter12.fork.join.framework;
+package com.kren.horstman.book.volume1.chapter12.fork.join.framework;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;

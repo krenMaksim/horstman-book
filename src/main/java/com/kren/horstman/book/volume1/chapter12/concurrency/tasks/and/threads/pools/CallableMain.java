@@ -1,4 +1,4 @@
-package com.kren.horstman.book.chapter12.concurrency.tasks.and.threads.pools;
+package com.kren.horstman.book.volume1.chapter12.concurrency.tasks.and.threads.pools;
 
 import java.util.List;
 import java.util.concurrent.Callable;
